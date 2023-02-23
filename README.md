@@ -2,7 +2,7 @@
 
 ## Decoder models
 
-![Decoder](hhttps://raw.githubusercontent.com/abacaj/transformers/main/decoder-formatted.png)
+![Decoder](https://raw.githubusercontent.com/abacaj/transformers/main/decoder-formatted.png)
 
 ## Encoder models
 
