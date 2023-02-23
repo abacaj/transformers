@@ -2,8 +2,8 @@
 
 ## Decoder models
 
-![Decoder](https://github.com/abacaj/transformers/blob/main/decoder-formatted.png?raw=true)
+![Decoder](hhttps://raw.githubusercontent.com/abacaj/transformers/main/decoder-formatted.png)
 
 ## Encoder models
 
-![Encoder](https://github.com/abacaj/transformers/blob/main/decoder-formatted.png?raw=true)
+![Encoder](https://raw.githubusercontent.com/abacaj/transformers/main/encoder-formatted.png)
