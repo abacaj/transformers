@@ -1,4 +1,4 @@
-# Understanding transformers
+# Understanding large language models
 
 ## Decoder models
 
@@ -7,3 +7,7 @@
 ## Encoder models
 
 ![Encoder](https://raw.githubusercontent.com/abacaj/transformers/main/encoder-formatted.png)
+
+## Encoder + decoder models
+
+![Encoder + decodder](https://raw.githubusercontent.com/abacaj/transformers/main/enc+dec-formatted.png)
